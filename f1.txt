@@ -1,5 +1,6 @@
+TTL
 function (){
-	return 'ddmaster,expddd';
+	return 'ma!!ster,ex!!pOK';
 
 }
 TTL
