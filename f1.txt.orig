@@ -1,0 +1,8 @@
+function (){
+<<<<<<< HEAD
+	return 'ma!!ster,ex!!p';
+=======
+	return 'ddmaster,expddd';
+
+>>>>>>> master
+}
