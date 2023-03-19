@@ -1,6 +1,4 @@
 function (){
-	return 'master,expddd';
-=======
-	return 'common';
->>>>>>> parent of 5013703 (common->mater)
+	return 'ddmaster,expddd';
+
 }
