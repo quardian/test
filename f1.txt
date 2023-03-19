@@ -1,5 +1,4 @@
 function (){
-<<<<<<< HEAD
 	return 'master,expddd';
 =======
 	return 'common';
