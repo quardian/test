@@ -1,3 +1,7 @@
 function (){
+<<<<<<< HEAD
 	return 'master,exp';
+=======
+	return 'common';
+>>>>>>> parent of 5013703 (common->mater)
 }
